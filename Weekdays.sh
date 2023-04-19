@@ -6,5 +6,7 @@ echo "Today is Monday"
 
 echo "Today is Tuesday"
 
+echo "Today is Wednesday"
+
 
 
