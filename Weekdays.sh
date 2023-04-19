@@ -8,5 +8,7 @@ echo "Today is Tuesday"
 
 echo "Today is Wednesday"
 
+echo "Today is Thursday"
+
 
 
