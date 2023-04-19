@@ -10,5 +10,8 @@ echo "Today is Wednesday"
 
 echo "Today is Thursday"
 
+echo "Today is Friday"
+
+
 
 
